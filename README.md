@@ -135,8 +135,8 @@ Then upload the `hdfc_lstm_bundle.pkl` file via the sidebar.
 ## 👤 Author
 
 **Kunal Singh**  
-B.Tech | AI & ML Assignment Project  
-📧 your-email@example.com  
+MSc | AI & ML (Assignment Project)  
+📧 kunalsinghh2611@gmail.com 
 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kunal-singh-a345683a4/)) · [GitHub]([https://github.com/your-username](https://github.com/Kunal2145))
 
 ---
