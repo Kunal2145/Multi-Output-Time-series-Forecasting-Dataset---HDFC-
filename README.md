@@ -137,9 +137,16 @@ Then upload the `hdfc_lstm_bundle.pkl` file via the sidebar.
 **Kunal Singh**  
 B.Tech | AI & ML Assignment Project  
 📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kunal-singh-a345683a4/)) · [GitHub]([https://github.com/your-username](https://github.com/Kunal2145))
 
 ---
+
+## Screenshots of the streamlit Web and trends
+
+1. <img width="1427" height="804" alt="Screenshot 2026-04-29 at 4 26 55 PM" src="https://github.com/user-attachments/assets/ffb52441-fa8d-4a0f-81a4-f005b03220e6" />
+2. <img width="1378" height="791" alt="Screenshot 2026-04-29 at 4 27 12 PM" src="https://github.com/user-attachments/assets/130673e0-03b5-4883-ab33-fd07aacab149" />
+3. <img width="1402" height="740" alt="Screenshot 2026-04-29 at 4 27 58 PM" src="https://github.com/user-attachments/assets/723a8460-fa1a-4776-9ac4-9f3baeea52d7" />
+4. <img width="1325" height="644" alt="Screenshot 2026-04-29 at 4 28 15 PM" src="https://github.com/user-attachments/assets/2c2849d1-33c1-4d90-99d0-38f7a9e1d339" />
 
 ## 📄 License
 
